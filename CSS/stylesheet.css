@@ -1,0 +1,97 @@
+body { 
+
+}
+
+div#container {
+	width: 800px;
+	margin: 0px auto;
+	background: #FFFFFF;
+	padding: 0px;
+	font-family: 'Poiret One', cursive;
+	font-size: 21px;
+	color: black;
+}
+
+#Career p {
+	margin: 20px
+}
+
+#Career h3 {
+	margin: 20px
+}
+
+#Career h4 {
+	margin: 20px
+}
+
+#Education p {
+	margin: 20px;
+}
+
+
+#Education h3 { margin: 20px;
+	}
+
+#container a {color: black;}
+
+#form label {margin: 20px;}
+
+#intro p {margin: 20px;}
+
+#nav {
+	background-color: #ffcc00;  
+	text-align: center;
+}
+
+#nav ul {list-style: none;
+         }
+
+#nav li {
+	display: inline-block;
+	padding: 14px 14px;
+	text-decoration: none;
+	padding-top: 30px;
+} 
+
+#nav a {color: white;
+	  text-align: center;  
+	  font-family: 'Limelight', cursive;
+
+}
+
+div#nav {
+	width: 800px;
+	padding-top: 100px;
+	background: black;	
+	height: 125px;
+}
+
+div#header {
+	width: 800px;
+	height: 125px;
+	background: #ffcc00;
+	position: absolute;
+	top: 0px;
+	font-family: 'Limelight', cursive;
+	font-size: 40px
+}
+
+#titles {
+	font-family: 'Limelight', cursive;
+	text-align: center;
+	color: grey;
+}
+
+hr {display: block;
+    }
+
+@media screen and (max-width: 960px) {
+	#container {
+		width: 100%;
+		
+
+
+
+
+
+
